@@ -1,0 +1,23 @@
+Suveer:
+  name        : "Professor Suveer Singh"
+  avatar      : "/assets/images/suveer.png"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Respitudoc"
+
+Dilshad:
+  name        : "Dr Dilshad Valliani"
+  avatar      : "/assets/images/dilshad_valliani.jpeg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/VallianiDilshad"
+
+Ahmed:
+  name        : "Dr Ahmed Al-Hindawi"
+  avatar      : "/assets/images/ahmed.jpeg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aal-hindawi"
