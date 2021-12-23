@@ -34,6 +34,8 @@ gallery:
     alt: "Pentax"
   - image_path: /assets/images/boston_scientific_logo.png
     alt: "Boston Scientific"
+  - image_path: /assets/images/fisher_paykel_logo.jpeg
+    alt: "Fisher Paykel"
   - image_path: /assets/images/cw_logo.png
     alt: "CW"
 ---
