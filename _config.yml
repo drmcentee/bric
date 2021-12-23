@@ -23,7 +23,7 @@ masthead_title: "BrIC-BrAC"
 email: Bric.course@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bronchoscopy Course for Intensive Care and Acute Care Doctors
-baseurl: "/bric-website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ahmed-alhindawi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BrICcourse
 # github_username:  jekyll
